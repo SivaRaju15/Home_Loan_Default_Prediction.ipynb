@@ -11,6 +11,13 @@ I built a complete end-to-end solution that analyses customer data and predicts 
 - 7 CSV files from Home Credit Default Risk dataset  
 - Total rows: 307,511 customers  
 - Features include application data, previous loans, credit bureau history, POS cash, installments, and credit card information
+- ## Dataset & Project Files
+
+The complete dataset and project files are hosted on Google Drive:
+
+- Dataset & project: [Download here](https://drive.google.com/file/d/1YWK3UE930-g5HNImuCRKyFx0t9MkoOKP/view?usp=drive_link)
+
+Make sure the link is set to **“Anyone with the link” – Viewer** so others can open it without sign‑in issues. [web:31][web:34]
 
 ## What I Did (Step-by-Step)
 1. Loaded and merged all 7 files efficiently  
